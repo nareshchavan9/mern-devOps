@@ -8,8 +8,8 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  BACKEND_IMAGE_NAME: nareshchavan9/mern-devOps-backend
-  FRONTEND_IMAGE_NAME: nareshchavan9/mern-devOps-frontend
+  BACKEND_IMAGE_NAME: nareshchavan9/mern-devops-backend
+  FRONTEND_IMAGE_NAME: nareshchavan9/mern-devops-frontend
 
 jobs:
   build-and-push:
